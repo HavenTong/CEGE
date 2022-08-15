@@ -1,0 +1,8 @@
+Model(test): d1_cpt-base_128_10_best
+Hit@1(beam=5): 4516 / 9465 = 0.47712625462229263
+Model(test): d1_cpt-base_128_10_best
+Hit@3(beam=5): 6342 / 9465 = 0.6700475435816164
+Model(test): d1_cpt_pretrain_noleak_128_accum_1_10_128_10_best
+Hit@1(beam=5): 4538 / 9465 = 0.4794506075013207
+Model(test): d1_cpt_pretrain_noleak_128_accum_1_10_128_10_best
+Hit@3(beam=5): 6349 / 9465 = 0.6707871104067618
